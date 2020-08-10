@@ -1,6 +1,8 @@
 .ad-container {
   background: #ffffff;
   margin: 0.2%;
+  margin-top: 1%;
+  margin-bottom: 1%;
   padding: 0.2%;
   width: 24%;
   min-width: 400px;
@@ -81,10 +83,18 @@
   padding: 0.5em;
 }
 
+.equal-width-columns td{
+  width: 50%;
+}
+
 img {
   margin-top: 2%;
   max-width: 100%;
   height: auto;
+}
+
+.see-in-facebook-ad-library-button {
+  margin: 0.5%;
 }
 
 
